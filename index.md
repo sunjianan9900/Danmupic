@@ -37,12 +37,12 @@
 
 ### 微信小程序版
 
-![wechat.jpg](https://raw.githubusercontent.com/sunjianan9900/Danmupic/master/pic/wechat.jpg)
+[![1HGz4A.jpg](https://s2.ax1x.com/2020/02/12/1HGz4A.jpg)](https://imgchr.com/i/1HGz4A)
 
 
 ### QQ小程序版
 
-![qq.png](https://raw.githubusercontent.com/sunjianan9900/Danmupic/master/pic/qq.png)
+[![1HGvAH.jpg](https://s2.ax1x.com/2020/02/12/1HGvAH.jpg)](https://imgchr.com/i/1HGvAH)
 
 ----
 
