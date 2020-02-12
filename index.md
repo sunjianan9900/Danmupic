@@ -66,5 +66,20 @@
 敬请期待
 
 
+----
 
+
+[![1HY1zt.th.png](https://s2.ax1x.com/2020/02/12/1HY1zt.th.png)](https://imgchr.com/i/1HY1zt)
+
+
+# Auto Vultr
+## --使用预设代码自动化部署Vultr服务器,随时随地手机管理
+
+### 安卓下载
+
+[Google Play](https://play.google.com/store/apps/details?id=nan.milukun.vultrssh)
+
+### iOS下载
+
+敬请期待
 
