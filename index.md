@@ -37,16 +37,14 @@
 
 ### 微信小程序版
 
-[![1HGz4A.jpg](https://s2.ax1x.com/2020/02/12/1HGz4A.jpg)](https://imgchr.com/i/1HGz4A)
+ [![1HGz4A.th.jpg](https://s2.ax1x.com/2020/02/12/1HGz4A.th.jpg)](https://imgchr.com/i/1HGz4A)
 
 
 ### QQ小程序版
 
-[![1HGvAH.jpg](https://s2.ax1x.com/2020/02/12/1HGvAH.jpg)](https://imgchr.com/i/1HGvAH)
-
+ 
 [![1HGvAH.th.jpg](https://s2.ax1x.com/2020/02/12/1HGvAH.th.jpg)](https://imgchr.com/i/1HGvAH) 
 
-[![1HGz4A.th.jpg](https://s2.ax1x.com/2020/02/12/1HGz4A.th.jpg)](https://imgchr.com/i/1HGz4A)
 
 ----
 
